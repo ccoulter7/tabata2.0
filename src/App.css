@@ -1,0 +1,31 @@
+.buttonDiv {
+    text-align: center;
+    font-size: 50px;
+    color: #236BD3;
+    background-color: #3A3D42 ;
+    font-family: Cambria;
+}
+
+.btn {
+    font-size: 30px;
+    margin-left: 15px;
+    color: #236BD3;
+    background-color: #3A3D42;
+    border-radius: 15px;
+    border-color: white;
+    font-family: Cambria;
+    padding: 5px;
+}
+
+body {
+    margin: 0 !important;
+}
+
+.MuiPaper-rounded {
+    border-radius: 0 !important;
+}
+
+
+
+
+
